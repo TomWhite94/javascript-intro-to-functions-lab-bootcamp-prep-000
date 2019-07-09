@@ -10,6 +10,6 @@ function logShout(string) {
 function logWhisper(string) {
   console.log('hello')
 }
-function if(string === 'HELLO') {
-  return ('YES INDEED!')
+if(string === 'HELLO') {
+  console.log ('YES INDEED!')
 }
